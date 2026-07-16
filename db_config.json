@@ -3,5 +3,5 @@
   "port": 5432,
   "database": "nursery_erp",
   "user": "postgres",
-  "password": "deepak"
+  "password": "your_password"
 }
